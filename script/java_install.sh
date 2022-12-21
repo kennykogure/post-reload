@@ -1,4 +1,4 @@
 #!/bin/bash
 
-dnf install -y install java-1.8.0-openjdk
+dnf install -y java-11-openjdk
 java -version
